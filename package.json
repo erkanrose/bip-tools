@@ -1,0 +1,27 @@
+{
+  "name": "bip-tools",
+  "version": "1.0.0",
+  "description": "Derive and generate keys for Blockchains.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erkanrose/bip-tools.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "bip84",
+    "bech32",
+    "legacy",
+    "segwit",
+    "segwit"
+  ],
+  "author": "erkan rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erkanrose/bip-tools/issues"
+  },
+  "homepage": "https://github.com/erkanrose/bip-tools#readme"
+}
